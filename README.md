@@ -12,4 +12,6 @@ By clicking the copy files button, you can switch between folders and files.
 *Version (?.?.a) doesn't open up a console to see which files were found and which not.
 However if you want this you have to download version ?.?.b.*
 
+Get it: https://github.com/MateoWasClaimed/CopyTool/releases
+
 This tool is completely free to use for both commercial and private.

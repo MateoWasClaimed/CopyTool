@@ -1,5 +1,5 @@
 # CopyTool
-A small tool to copy files and folders from a file list.
+A small tool made in python to copy files and folders from a file list.
 
 ![grafik](https://github.com/MateoWasClaimed/CopyTool/assets/90092866/a5919b53-af37-4694-b0a0-9231eec7565d)
 
@@ -13,5 +13,7 @@ By clicking the copy files button, you can switch between folders and files.
 However if you want this you have to download version ?.?.b.*
 
 Get it: https://github.com/MateoWasClaimed/CopyTool/releases
+
+**You need python to use it!**
 
 This tool is completely free to use for both commercial and private.

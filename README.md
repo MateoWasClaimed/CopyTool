@@ -10,6 +10,6 @@ By clicking the copy files button, you can switch between folders and files.
 **The file list must be a .txt file!**
 
 *Version (?.?.a) doesn't open up a console to see which files were found and which not.
-However if you want this you have to download version ?.?.b. (cooming soon)*
+However if you want this you have to download version ?.?.b.*
 
 This tool is completely free to use for both commercial and private.
